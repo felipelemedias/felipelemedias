@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Felipe Leme Dias:
 
-- 🎓 Estudando Sistemas de Informação na <a href="https://ufu.br/">UFU(Universidade Federal de Uberlândia)</a>.
+- 🎓 Sistemas de Informação - <a href="https://ufu.br/">Universidade Federal de Uberlândia(UFU)</a>.
 
 <div>
   <a href="https://github.com/felipelemedias">
