@@ -1,4 +1,4 @@
-### Olá! Eu sou o Felipe Leme Dias:
+### Hi! I'm Felipe Leme Dias and this is my git profile:
 
 - 🎓 Sistemas de Informação - <a href="https://ufu.br/">Universidade Federal de Uberlândia(UFU)</a>.
 
