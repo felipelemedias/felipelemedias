@@ -2,12 +2,7 @@
 
 - 🎓 Sistemas de Informação - <a href="https://ufu.br/">Universidade Federal de Uberlândia(UFU)</a>.
 
-<div>
-  <a href="https://github.com/felipelemedias">
-  <img height="150cm" src="https://githubreadme-stats.vercel.app/api?username=felipelemedias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150cm" src="https://githubreadme-stats.vercel.app/api/top-langs/?username=felipelemedias&layout=compact&langs_count=16&theme=dark"/>
-
-  <div align = "center">
+<div align = "center">
 <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelemedias&show_icons=true&theme=calm_pink&count_private=true"/>
 <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=felipelemedias&show_icons=true&show_icons=true&theme=calm_pink&count_private=true" />
 </div>
