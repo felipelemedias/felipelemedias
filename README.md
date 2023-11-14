@@ -1,13 +1,13 @@
 ### Hi! I'm Felipe Leme Dias and this is my git profile:
 
-- 🎓 Sistemas de Informação - <a href="https://ufu.br/">Universidade Federal de Uberlândia(UFU)</a>.
+- 🎓 Sistemas de Informação - <a align = "center" href="https://ufu.br/">Universidade Federal de Uberlândia(UFU)</a>.
 
 <div align = "center">
 <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelemedias&show_icons=true&theme=calm_pink&count_private=true"/>
 <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=felipelemedias&show_icons=true&show_icons=true&theme=calm_pink&count_private=true" />
 </div>
     
-<div>
+<div align = "center">
   Em aprendizado: <br>
   <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-c" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
@@ -25,7 +25,7 @@
   
   ##
     
-<div> 
+<div align = "center"> 
   <a href = "mailto:flemedias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
