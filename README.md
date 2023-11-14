@@ -1,6 +1,6 @@
-### Hi! I'm Felipe Leme Dias and this is my git profile:
+<h1 align = "center" > Hi! I'm Felipe Leme Dias and this is my git profile: </h1>
 
-- 🎓 Sistemas de Informação - <a align = "center" href="https://ufu.br/">Universidade Federal de Uberlândia(UFU)</a>.
+<a align = "center"> - 🎓 Sistemas de Informação - <a align = "center" href="https://ufu.br/">Universidade Federal de Uberlândia(UFU)</a>.
 
 <div align = "center">
 <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelemedias&show_icons=true&theme=calm_pink&count_private=true"/>
