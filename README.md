@@ -1,11 +1,10 @@
 <div align = "center">
-<h1> Hi! I'm Felipe Leme Dias and this is my git profile: </h1>
+<h1> Olá! Eu sou o Felipe e essas são minhas skills e atividades durante meu aprendizado em programação: </h1>
 
-<a > - 🎓 Sistemas de Informação - <a align = "center" href="https://ufu.br/">Universidade Federal de Uberlândia(UFU)</a>.
+<a > BSI - UFU -> <a align = "center" href="https://ufu.br/"> Sistemas de Informação - Universidade Federal de Uberlândia(UFU)</a>.
 </div>
 <div align = "center">
 <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelemedias&show_icons=true&theme=calm_pink&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=felipelemedias&show_icons=true&show_icons=true&theme=calm_pink&count_private=true" />
 </div>
     
 <div align = "center">
