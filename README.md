@@ -1,7 +1,7 @@
 <div align = "center">
 <h1> Olá! Eu sou o Felipe e essas são minhas skills e atividades durante meu aprendizado em programação: </h1>
-
-<a > BSI - UFU -> <a align = "center" href="https://ufu.br/"> Sistemas de Informação - Universidade Federal de Uberlândia(UFU)</a>.
+    
+<a> BSI - UFU -> <a align = "center" href="https://ufu.br/"> Sistemas de Informação - Universidade Federal de Uberlândia(UFU)</a>.
 </div>
 <div align = "center">
 <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelemedias&show_icons=true&theme=calm_pink&count_private=true"/>
@@ -21,6 +21,7 @@
   <img align="center" alt="Felipe-postgresql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="Felipe-git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
   <img align="center" alt="Felipe-latex" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
+  <img align="center" alt="Felipe-latex" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">          
 </div>
   
   ##
