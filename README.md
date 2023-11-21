@@ -21,7 +21,7 @@
 </div>
 <div align = "center">
 <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelemedias&show_icons=true&theme=transparent&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=felipelemedias&show_icons=true&count_private=true&hide_border=true&title_color=6474B9&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10&hide=contribs&thme=transparent&include_all_commits=true&rank_icon=github" alt="felipelemedias github stats" />
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=felipelemedias&show_icons=true&count_private=true&hide_border=true&title_color=6474B9&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10&hide=contribs&thme=transparent&include_all_commits=true&rank_icon=github" alt="my github stats" />
 </div>
     
 <div align = "center">
