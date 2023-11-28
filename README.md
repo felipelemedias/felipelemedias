@@ -15,7 +15,6 @@
 </div>
 
 <div align = "center">
-<h3> Essas são as linguagens que estou aprendendo na área da programação: </h3>
     
 <a> Bacharelando Sistemas de Informação na<a align = "center" href="https://ufu.br/"> Universidade Federal de Uberlândia(UFU)</a>.
 </div>
@@ -25,7 +24,7 @@
 </div>
     
 <div align = "center">
-  Em aprendizado: <br>
+  Linguagens em aprendizado: <br>
   <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-c" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Felipe-java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
